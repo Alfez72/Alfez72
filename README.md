@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,100:1F6FEB&section=header&text=Alfez%20Khan&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Generative%20AI%20%C2%B7%20Agentic%20AI&descAlignY=60&descSize=16" width="100%" alt="Alfez Khan"/>
 
-**Data Science · Data Analysis · Machine Learning · Deep Learning · NLP · Generative AI · Agentic AI**
+** AI Engineer · Data Science · Data Analysis · NLP · Generative AI · Agentic AI**
 
 Fluent across the AI stack, from data analysis and machine learning to retrieval-augmented generation and autonomous agent systems.<br>
 The work spans the full path from raw data to a working system: understanding and cleaning the data, building and comparing models,<br>
